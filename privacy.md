@@ -46,7 +46,7 @@ Data is retained only as long as necessary to provide messaging services or as r
 Users may request access to or deletion of their data at any time.
 
 Instructions for data deletion are available here:
-https://<your-username>.github.io/docsyn-legal/data-deletion
+https://github.com/sandeshrjain/docsync-legal/blob/main/data-deletion.md
 
 ---
 
